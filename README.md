@@ -1,4 +1,4 @@
-<img src="file:///G:/wp%20class/FIT%20WDD-12/images/banner/DEV%20ASADUL%20(1).png">
+<img src="">
 <h1 align="center">Hey Welcome to my profile</h1>
 <h3 align="center">Innovative Web Design । Web Development । Clean Code </h3>
 
